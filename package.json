@@ -1,0 +1,13 @@
+{
+  "name": "stockdss",
+  "version": "3.0.0",
+  "description": "StockDSS v3.0 — IDX Stock Analyzer with Real Yahoo Finance Data",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "dev": "cd backend && npm run dev",
+    "install-all": "cd backend && npm install"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
